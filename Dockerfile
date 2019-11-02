@@ -11,6 +11,7 @@ RUN apt-get update -qq && \
                         python3-pip      && \
     pip3 install        django              \
                         django-leaflet      \
+                        gunicorn            \
                         psycopg2-binary  && \
     apt-get install     libpq-dev           \
                         binutils            \
