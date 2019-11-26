@@ -3,7 +3,9 @@
 # [GeoDjango Docker environment](https://github.com/KnowledgePending/GeoDjango-Docker)
 🐳 🗺️ Docker environment for GeoDjango Development  
 <br>
-[![Docker Pulls](https://img.shields.io/docker/pulls/bryankp/geodjango.svg)](https://hub.docker.com/r/bryankp/geodjango)
+[![Docker Pulls](https://img.shields.io/docker/pulls/bryankp/geodjango.svg)](https://hub.docker.com/r/bryankp/geodjango)  
+
+For simple deployments on Heroku see [Heroku GeoDjango Docker](https://github.com/KnowledgePending/Heroku-GeoDjango-Docker)
 ## Image details
 * Ubuntu 19.04 Disco Dingo
 * Python 3.6
